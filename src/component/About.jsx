@@ -35,8 +35,7 @@ const About = () => {
             <h3>About Me</h3>
             <p>Hello There, I am <span>Opatola Stephen</span></p>
             <br />
-            <small>I am a product designer who is keen about solving problems around me through creativity and deals with the interface and the experience a user gets while using a mobile app or a website.
-              I am also concerned about solving problems faced by clients by designing better applications. </small>
+            <small>I am a product designer who has keen interest in solving problems with my creative skills.This drives me to create mobile applications and websites that gives users exciting features and experience. </small>
             <br />
             <a href={ctn} download><Btn>Download Resume</Btn></a>
           </div>

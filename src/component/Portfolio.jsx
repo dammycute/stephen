@@ -35,7 +35,7 @@ const Portfolio = () => {
       <Wrapper>
         <Services className='serve' id='portfolio'>
           <h3>Portfolio</h3>
-          <small className='small'>Here is a list of some of the projects have been able to design which consists of a fintech mobile app, a coffee shop application, a web landing page.</small>
+          <small className='small'>Here are a few examples of the projects I have completed. They include a fintech mobile app. a coffee shop app, and a website landing page. </small>
           <Flex>
             {
               btns.map(btn =>(

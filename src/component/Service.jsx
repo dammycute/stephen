@@ -27,7 +27,7 @@ const Service = () => {
       <Services className='serve' id='service'>
         <h3>Services</h3>
         <span></span>
-        <small className='small'>We render services like web design,  Mobile app design, creative design. We also make sure we render the best user experience you can ever get.</small>
+        <small className='small'>My services include website design, mobile app design and creative design. I create designs that give you the best user feel and experience ever!</small>
       </Services>
       <Flex>
         {services.map((item) => (
