@@ -34,7 +34,7 @@ export const HeaderText = styled.div`
     .header-text{
       display: block;
       width: 100%;
-      max-width: 600px;
+      max-width: 600px;}
 
     @media screen and (max-width: 900px) {
       .header-text{
